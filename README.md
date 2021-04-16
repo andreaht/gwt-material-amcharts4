@@ -13,12 +13,12 @@ AmCharts V4 Official Documentation can be found [here](https://www.amcharts.com/
 
 
 ## Maven
-### Current Version 2.3.0
+### Current Version 2.4.2
 ```xml
 <dependency>
     <groupId>com.github.gwtmaterialdesign</groupId>
     <artifactId>gwt-material-am4charts</artifactId>
-    <version>2.3.0</version>
+    <version>2.4.2</version>
 </dependency>
 ```
 
@@ -29,9 +29,6 @@ AmCharts V4 Official Documentation can be found [here](https://www.amcharts.com/
 Contributions are welcomed by all! If you would like to submit changes be sure to fork this project and create a [Pull Request](https://yangsu.github.io/pull-request-tutorial/) for us to review. PR's will be reviewed by the team as soon as possible. You will also be listed as a contributor on our changelog notes.
 
 Please follow the [contribution document](https://github.com/GwtMaterialDesign/gwt-material/wiki/Contributing) on the projects code style standards.
-
-## Follow Us
-<a href="https://plus.google.com/u/0/communities/108005250093449814286"> Google Plus</a>
 
 ## Related Projects
 <ul>
